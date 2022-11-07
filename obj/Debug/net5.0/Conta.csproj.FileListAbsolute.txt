@@ -1,0 +1,16 @@
+E:\#Meus Projetos\C# Com Console\Conta Bancaria\Conta\bin\Debug\net5.0\Conta.exe
+E:\#Meus Projetos\C# Com Console\Conta Bancaria\Conta\bin\Debug\net5.0\Conta.deps.json
+E:\#Meus Projetos\C# Com Console\Conta Bancaria\Conta\bin\Debug\net5.0\Conta.runtimeconfig.json
+E:\#Meus Projetos\C# Com Console\Conta Bancaria\Conta\bin\Debug\net5.0\Conta.runtimeconfig.dev.json
+E:\#Meus Projetos\C# Com Console\Conta Bancaria\Conta\bin\Debug\net5.0\Conta.dll
+E:\#Meus Projetos\C# Com Console\Conta Bancaria\Conta\bin\Debug\net5.0\ref\Conta.dll
+E:\#Meus Projetos\C# Com Console\Conta Bancaria\Conta\bin\Debug\net5.0\Conta.pdb
+E:\#Meus Projetos\C# Com Console\Conta Bancaria\Conta\obj\Debug\net5.0\Conta.csproj.AssemblyReference.cache
+E:\#Meus Projetos\C# Com Console\Conta Bancaria\Conta\obj\Debug\net5.0\Conta.GeneratedMSBuildEditorConfig.editorconfig
+E:\#Meus Projetos\C# Com Console\Conta Bancaria\Conta\obj\Debug\net5.0\Conta.AssemblyInfoInputs.cache
+E:\#Meus Projetos\C# Com Console\Conta Bancaria\Conta\obj\Debug\net5.0\Conta.AssemblyInfo.cs
+E:\#Meus Projetos\C# Com Console\Conta Bancaria\Conta\obj\Debug\net5.0\Conta.csproj.CoreCompileInputs.cache
+E:\#Meus Projetos\C# Com Console\Conta Bancaria\Conta\obj\Debug\net5.0\Conta.dll
+E:\#Meus Projetos\C# Com Console\Conta Bancaria\Conta\obj\Debug\net5.0\ref\Conta.dll
+E:\#Meus Projetos\C# Com Console\Conta Bancaria\Conta\obj\Debug\net5.0\Conta.pdb
+E:\#Meus Projetos\C# Com Console\Conta Bancaria\Conta\obj\Debug\net5.0\Conta.genruntimeconfig.cache
